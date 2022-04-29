@@ -21,3 +21,9 @@ Project Overview: This project seeks to analyze reviews from the three most popu
   - Is there a correlation between the week-to-week bot mention rate and week-to-week average review sentiment?
 
 Directory Navigation: 
+
+- Data_Wrangling: This folder contains all the code used to wrangle data
+- Wrangled_Data: Aptly named, this folder contains all of the clean data for this project 
+- Trends: This folder contains the code used to do initial trend analysis of the data
+- Sentiment_Analysis: This contains all code used to analyze sentiment
+- Bots: This folder contains all of the code for bot analysis
