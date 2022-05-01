@@ -18,9 +18,14 @@ Project Overview: This project seeks to analyze reviews from the three most popu
 - How prevelent are bots on dating apps and how frequently do users mention them in their reviews? 
   - Was there a noticable uptick in bot mentions during the pandemic? 
   - Are mentions of bots more common on certain dating apps relative to the total number of reviews for each app? (While reviews are not a perfect indicator of bot quantity on apps, they should serve as an acceptable proxy for the sake of drawing comparisons)
-- Can bot mention rate be correlated with other features of the data?
-  - Is there a correlation between the bot mention rate and week-to-week average review score? 
-  - Is there a correlation between the bot mention rate and week-to-week average review sentiment?
+  - Can bot mention rate be correlated with other features of the data?
+    - Is there a correlation between the bot mention rate and week-to-week average review score? 
+    - Is there a correlation between the bot mention rate and week-to-week average review sentiment?
+  - Do other controversial topics come up frequently in reviews? 
+    - Mentions of race, racism, etc.
+    - Mentions of political affiliation
+    - Mentions of controversial topics like BLM, police, abortion, etc.
+    - Mentions of gender or sexual orientation (e.g. transgender issues, how the app handles gender and sexual orientation)  
 
 Directory Navigation: 
 
@@ -30,8 +35,9 @@ Directory Navigation:
   - Histograms over lifetime, 2018-2022, and post-pandemic
   - Rolling average review scores of each app over time between 2018-2022
 - Sentiment_Analysis: This contains all code used to... 
-  - Analyze sentiment and clean data for sentiment analysis
-  - Get the top 10 words across reviews using a variety of metrics 
-  - Create and optimize Random Forest and Multilinear regression models used to predict review scores 
-  - Sentiment_Over_Time analyzes and compares the average rolling sentiment score with the average rolling review score
+  - Analyze_Sentiment: Perform preliminary data cleaning for sentiment analysis. Word count analysis. 
+  - Top_Ten: Get the top 10 words across reviews using a variety of metrics 
+  - RF_Score_Pred: Create and optimize Random Forest models to predict review scores 
+  - MLR_Score_Pred: Create and optimize Multilinear regression models to predict review scores
+  - Sentiment_Over_Time: Analyzes and compare the average rolling sentiment score with the average rolling review scores
 - Bots: This folder contains all of the code for bot analysis
