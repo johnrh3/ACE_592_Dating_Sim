@@ -21,11 +21,11 @@ Project Overview: This project seeks to analyze reviews from the three most popu
   - Can bot mention rate be correlated with other features of the data?
     - Is there a correlation between the bot mention rate and week-to-week average review score? 
     - Is there a correlation between the bot mention rate and week-to-week average review sentiment?
-  - Do other controversial topics come up frequently in reviews? 
-    - Mentions of race, racism, etc.
-    - Mentions of political affiliation
-    - Mentions of controversial topics like BLM, police, abortion, etc.
-    - Mentions of gender or sexual orientation (e.g. transgender issues, how the app handles gender and sexual orientation)  
+- What (if any) controversial topics come up frequently in reviews? Can they be corrolated with sentiment?
+  - Mentions of race, racism, etc.
+  - Mentions of political affiliation
+  - Mentions of controversial topics like BLM, police, abortion, etc.
+  - Mentions of gender or sexual orientation (e.g. transgender issues, how the app handles gender and sexual orientation)  
 
 Directory Navigation: 
 
