@@ -4,6 +4,9 @@ Project Repo for ACE_592 Dating Sim Project
 What is this?:
 This Repo acts as a running log and version control for Isaac Wisthuff and Jack Hanley's ACE_592 Data Science Final Project. 
 
+Running this Code: 
+We recommend running the code in Jupyter notebook (note: you will have to download missing packages into your existing conda environment as needed). Simply download the files found in the Box link in the Wrangled_Data README documentation. When you open code in Jupyter notebook, simply change the dir_ line to match your working directory (this is always found in the second box on Jupyter notebook), and hit run. The code should take care of the rest : ) 
+
 Project Overview: This project seeks to analyze reviews from the three most popular dating apps (Tinder, Hinge, and Bumble) between 2018-2022. This project uses Google Play Store review data for Tinder, Bumble, and Hinge from 2014-2022 and comes from Kaggle.com, an open-source data platform. The overarching goal of this project is to analyze how user sentiment and satisfaction changed pre, during, and post-pandemic, using Google Play reviews. More specifically, the goal of this project is to answer the following questions:   
 
 - Were their any noticable trends in review data between 2018-2022? 
