@@ -30,7 +30,7 @@ Project Overview: This project seeks to analyze reviews from the three most popu
 Directory Navigation: 
 
 - Data_Wrangling: This folder contains all the code used to wrangle data
-- Wrangled_Data: Aptly named, this folder contains all of the clean data for this project 
+- Wrangled_Data: Aptly named, this folder contains all of the clean data for this project. Simply download this data, change the dir_ line to match your working directory (this is always found in the second box on Jupyter notebook), and hit run. The code should take care of the rest : ) 
 - Trends: This folder contains the code used to do initial trend analysis of the data
   - Histograms over lifetime, 2018-2022, and post-pandemic
   - Rolling average review scores of each app over time between 2018-2022
