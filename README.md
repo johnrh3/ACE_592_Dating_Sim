@@ -25,5 +25,7 @@ Directory Navigation:
 - Data_Wrangling: This folder contains all the code used to wrangle data
 - Wrangled_Data: Aptly named, this folder contains all of the clean data for this project 
 - Trends: This folder contains the code used to do initial trend analysis of the data
-- Sentiment_Analysis: This contains all code used to analyze sentiment
+- Sentiment_Analysis: This contains all code used to 
+  - Analyze sentiment and clean data for sentiment analysis 
+  - Create and optimize Random Forest and Multilinear regression models used to predict review scores 
 - Bots: This folder contains all of the code for bot analysis
