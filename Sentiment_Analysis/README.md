@@ -20,5 +20,5 @@ LR_Score:
 - Also contains visualization outputs for the presentation
 
 Super_Model:
-- Contains the combined super model to test amazon product reviews
-- Tests, optimizes, and visualizes the results 
+- Contains the combined super models for RF and LR to test amazon product reviews
+- Tests, optimizes, and visualizes the results of this analysis
