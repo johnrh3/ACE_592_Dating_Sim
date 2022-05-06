@@ -44,3 +44,14 @@ Directory Navigation:
   - MLR_Score_Pred: Create and optimize Multilinear regression models to predict review scores
   - Sentiment_Over_Time: Analyzes and compare the average rolling sentiment score with the average rolling review scores
 - Bots: This folder contains all of the code for bot analysis
+
+
+Data Sources: 
+- Dating App Review Datasets:
+  - https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review
+  - https://www.kaggle.com/datasets/shivkumarganesh/hinge-google-play-store-review
+  - https://www.kaggle.com/datasets/shivkumarganesh/bumble-dating-app-google-play-store-review
+- Amazon Review Datasets: 
+  - https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset
+  - https://www.kaggle.com/datasets/akudnaver/amazon-reviews-dataset
+  -  
