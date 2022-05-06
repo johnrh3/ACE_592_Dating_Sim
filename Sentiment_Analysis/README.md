@@ -12,3 +12,13 @@ RF_Score:
 - This RF model attempts to classify and predict user review scores by using sentiment scores and total character length of review. 
 - It do the thing. 
 - Also contains visualization outputs for the presentation
+- Contains the combined super model to test amazon product reviews
+
+LR_Score: 
+- This Logistic regression model attempts to classify and predict user review scores by using sentiment scores and total character length of review. 
+- It do the thing. 
+- Also contains visualization outputs for the presentation
+
+Super_Model:
+- Contains the combined super model to test amazon product reviews
+- Tests, optimizes, and visualizes the results 
