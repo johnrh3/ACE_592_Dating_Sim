@@ -13,7 +13,7 @@ Project Overview: This project seeks to analyze reviews from the three most popu
   - What is the distribution of review scores over the lifetimes of the apps, the apps pre, during, and post-pandemic, and purely post-pandemic?
   - How did the average review score change between 2018-2022? 
 - Using sentiment analysis, how did review sentiment change over time between 2018-2022? 
-  - Was there a noticable change during the pandemic, or a notable surge of positivity post pandemic?
+  - Was there a noticeable drop during the pandemic, or a notable surge of positivity post-pandemic?
   - What are the common themes/words/complaints between the most negative sentiment reviews?
   - Is there a correlation between sentiment score and review score? 
   - Can sentiment be used to accurately predict a user's review score using a Random Forest or Multilinear Regression machine learning algorithm? 
